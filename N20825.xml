@@ -115,8 +115,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:027352_0000_0FD4219816302918"/>
-            <pb facs="tcp:027352_0001_0FD3D69BB9895AD8"/>
+            <pb facs="unknown:027352_0000_0FD4219816302918"/>
+            <pb facs="unknown:027352_0001_0FD3D69BB9895AD8"/>
             <p>COLUMBUS: OR THE DISCOVERY OF AMERICA. AN HISTORICAL PLAY.</p>
             <p>AS PERFORMED AT THE THEATRE-ROYAL, COVENT-GARDEN, <hi>LONDON.</hi>
             </p>
@@ -127,7 +127,7 @@
             <p>1794.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:027352_0002_0FD3D69E235C0468"/>
+            <pb facs="unknown:027352_0002_0FD3D69E235C0468"/>
             <head>Advertisement.</head>
             <p>THE spectator and reader of the following performance <gap reason="illegible: indecipherable" extent="4 words">
                   <desc>〈◊◊◊◊〉</desc>
@@ -187,7 +187,7 @@
             <p>* * * Those Lines with inverted Commas, are omitted in the re<g ref="char:EOLhyphen"/>presentation.</p>
          </div>
          <div type="prologue">
-            <pb facs="tcp:027352_0003_0FD420DA6C806520"/>
+            <pb facs="unknown:027352_0003_0FD420DA6C806520"/>
             <head>PROLOGUE,</head>
             <byline>WRITTEN BY W. T. FITZGERALD, <abbr>ESQ.</abbr>
             </byline>
@@ -230,7 +230,7 @@
                <l>To aggravate the sense of human woes!</l>
             </lg>
             <lg>
-               <pb facs="tcp:027352_0004_0FD420DDDCE42DE0"/>
+               <pb facs="unknown:027352_0004_0FD420DDDCE42DE0"/>
                <l>The rigid laws of time, and place, our bard,</l>
                <l>In this night's drama, ventures to discard:</l>
                <l>If here he errs—he errs with <hi>him</hi> whose name,</l>
@@ -251,7 +251,7 @@
       </front>
       <body>
          <div n="1" type="act">
-            <pb facs="tcp:027352_0005_0FD420E0B5DE40B0"/>
+            <pb facs="unknown:027352_0005_0FD420E0B5DE40B0"/>
             <head>COLUMBUS: AN HISTORICAL PLAY.</head>
             <head>ACT I.</head>
             <div n="1" type="scene">
@@ -268,7 +268,7 @@
                   <p>Mighty chief!</p>
                </sp>
                <sp>
-                  <pb n="2" facs="tcp:027352_0006_0FD420E1C712E9C0"/>
+                  <pb n="2" facs="unknown:027352_0006_0FD420E1C712E9C0"/>
                   <speaker>Orozimbo.</speaker>
                   <p>Rise, good Solasco.</p>
                </sp>
@@ -300,7 +300,7 @@
                   <p>Say, Catalpo, what mean these bodings! <stage>[A ship appears from behind a projecting rock.]</stage> And lo!—What monster's that, whose wings bear it buoy<g ref="char:EOLhyphen"/>ant one the watery main?</p>
                </sp>
                <stage>
-                  <pb n="3" facs="tcp:027352_0007_0FD420E349852A10"/>
+                  <pb n="3" facs="unknown:027352_0007_0FD420E349852A10"/>
 [<hi>A cannon is discharged from the ship.</hi>
                </stage>
                <sp>
@@ -341,7 +341,7 @@
                <sp>
                   <speaker>Columbus.</speaker>
                   <p>First, to high Heaven, who thus, with never fading honour, hath crown'd its poorest servant,
-<pb n="4" facs="tcp:027352_0008_0FD420E4D8754AA0"/>
+<pb n="4" facs="unknown:027352_0008_0FD420E4D8754AA0"/>
 let me pour forth a heart o'erwelm'd with gratitude. And now begin the important work which heaven has delegated to us—Erect the sacred banner of our faith.</p>
                </sp>
                <stage>[The Cross is erected on one side of the stage.</stage>
@@ -382,7 +382,7 @@ let me pour forth a heart o'erwelm'd with gratitude. And now begin the important
                <sp>
                   <speaker>Herbert.</speaker>
                   <p>My name is Harry Herbert; I am de<g ref="char:EOLhyphen"/>scended from as respectable and independant an ances<g ref="char:EOLhyphen"/>tor as the world can boast,—an English yeoman; but the civil wars leaving my family little, which my im<g ref="char:EOLhyphen"/>prudence soon made less, I thought that, altho' King
-<pb n="5" facs="tcp:027352_0009_0FD420E643571A40"/>
+<pb n="5" facs="unknown:027352_0009_0FD420E643571A40"/>
 Henry was deprived of the honour of this enterprize, that did not preclude his subjects; so I shipped myself off for Castille, where I had just time and cast enough to fall a dozen times in love, and into other scrapes, before I had the honour of embarking on board your Excellency's squadron.</p>
                </sp>
                <sp>
@@ -420,7 +420,7 @@ Henry was deprived of the honour of this enterprize, that did not preclude his s
                   <p>Oft <gap reason="illegible: indecipherable" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> a tender glance escap'd my eye, im<g ref="char:EOLhyphen"/>pelled
-<pb n="6" facs="tcp:027352_0010_0FD420E8D9AAC14"/>
+<pb n="6" facs="unknown:027352_0010_0FD420E8D9AAC14"/>
 by Beauty's power, and from my bosom the soft sigh instinctively has stolen—Many a fair Castili<g ref="char:EOLhyphen"/>an has enforced the test of admiration, but now my every sense seems drawn by power magnetic to that lovely saint—Permit me, fairest creature, to express my admiration at the charms which now present them<g ref="char:EOLhyphen"/>selves—tho' all the wonders of a new discovered world display their rival novelties, yet, now that I behold its first of wonders, all else exacts from me as little no<g ref="char:EOLhyphen"/>tice, as I, I fear have power to merit to command from you.</p>
                </sp>
                <sp>
@@ -453,7 +453,7 @@ by Beauty's power, and from my bosom the soft sigh instinctively has stolen—Ma
                   <speaker>Orozimbo.</speaker>
                   <stage>[<hi>with</hi> Columbus, <hi>coming forward</hi>]</stage>
                   <p>In harmony and peace I rule a free and happy people, and
-<pb n="7" facs="tcp:027352_0011_0FD420EA609FF1A8"/>
+<pb n="7" facs="unknown:027352_0011_0FD420EA609FF1A8"/>
 I were worthy of my kingdom, did I not endeavour to the utmost to convert the name of stranger into friend.</p>
                </sp>
                <stage>[<hi>Exeunt</hi> Orozimbo <hi>and</hi> Columbus, <hi>hand in hand; Priests follow; then</hi> Alonzo, Roldan, Valverdo, &amp;c. <hi>and the Spanish and Indian soldiers—One party bow to the cross, the other to the sun.</hi>]</stage>
@@ -514,7 +514,7 @@ I were worthy of my kingdom, did I not endeavour to the utmost to convert the na
                <sp>
                   <speaker>Nelti.</speaker>
                   <p>Did I say the handsomest? Oh dear, I mean
-<pb n="8" facs="tcp:027352_0012_0FD420EE8AE1EB50"/>
+<pb n="8" facs="unknown:027352_0012_0FD420EE8AE1EB50"/>
 they select the most sedate—for, from this day she must never leave the temple, or converse with any ex<g ref="char:EOLhyphen"/>cept the priests.</p>
                </sp>
                <sp>
@@ -582,7 +582,7 @@ they select the most sedate—for, from this day she must never leave the temple
                <sp>
                   <speaker>Herbert.</speaker>
                   <p>A reptile, my dear, that is found in abun<g ref="char:EOLhyphen"/>dance
-<pb n="9" facs="tcp:027352_0013_0FD420EE8E13C280"/>
+<pb n="9" facs="unknown:027352_0013_0FD420EE8E13C280"/>
 in all countries, and yet it is not easily described,—it is a kind of mongrel, which men drive from them because they hardly consider it as belonging to them, and the women won't receive, because they think it won't breed.</p>
                </sp>
                <sp>
@@ -640,7 +640,7 @@ in all countries, and yet it is not easily described,—it is a kind of mongrel,
                   <p>Zounds! a dozen such patients wou'd do for me!</p>
                </sp>
                <sp>
-                  <pb n="10" facs="tcp:027352_0014_0FD420F2249CE108"/>
+                  <pb n="10" facs="unknown:027352_0014_0FD420F2249CE108"/>
                   <speaker>Herbert.</speaker>
                   <p>Doctor, I hope to be honoured with the <hi>hand</hi> of this charming girl.</p>
                </sp>
@@ -681,7 +681,7 @@ in all countries, and yet it is not easily described,—it is a kind of mongrel,
             </div>
          </div>
          <div n="2" type="act">
-            <pb n="11" facs="tcp:027352_0015_0FD420F319F2D668"/>
+            <pb n="11" facs="unknown:027352_0015_0FD420F319F2D668"/>
             <head>ACT II.</head>
             <div n="1" type="scene">
                <head>SCENE I.—The Spanish Camp.</head>
@@ -717,7 +717,7 @@ in all countries, and yet it is not easily described,—it is a kind of mongrel,
                <sp>
                   <speaker>Roldan.</speaker>
                   <p>Do thou, Valverdo, tamper with the troops—press on their superstitious minds the injury our faith will suffer by winking at idolatry; tell them, the way
-<pb n="12" facs="tcp:027352_0016_0FD420F48E5FE6B0"/>
+<pb n="12" facs="unknown:027352_0016_0FD420F48E5FE6B0"/>
 to sudden wealth is easy, had they a fit commander—insinuate—but we waste words—about it, good Val<g ref="char:EOLhyphen"/>verdo.</p>
                   <stage>[<hi>Exit</hi> Valverdo.</stage>
                   <p>'Twere presumption to instruct a monk in wiles of glozing cozenage.</p>
@@ -771,7 +771,7 @@ to sudden wealth is easy, had they a fit commander—insinuate—but we waste wo
                   <stage>[They fight.</stage>
                </sp>
                <stage>
-                  <pb n="13" facs="tcp:027352_0017_0FD420F614A2BAE8"/>
+                  <pb n="13" facs="unknown:027352_0017_0FD420F614A2BAE8"/>
                   <hi>Enter</hi> Cuto, <hi>with Indians, who rush in between 'em.</hi>
                </stage>
                <sp>
@@ -802,7 +802,7 @@ to sudden wealth is easy, had they a fit commander—insinuate—but we waste wo
                <sp>
                   <speaker>Columbus.</speaker>
                   <p>All happiness is mingled with alloy—I've triumphed over every opposition malice and folly raised to check my glory—I, now, in Europe's eye shall stand arrayed in all the honours which success com<g ref="char:EOLhyphen"/>mands—"those, who if accident had thwarted my reason-founded schemes would with important igno<g ref="char:EOLhyphen"/>rance have scoffed at the silly vague projector—will now, with panegyric full as thoughtless, admire my courage, and applaud my prescience"—yet, when I
-<pb n="14" facs="tcp:027352_0018_0FD420F78B25DDD8"/>
+<pb n="14" facs="unknown:027352_0018_0FD420F78B25DDD8"/>
 have attained the summit of my wishes, when I shou'd give some little rest to my care-worn mind, which long has struggled with adversity; when I might contem<g ref="char:EOLhyphen"/>plate with joy, the virtues more rare than all the riches it abounds in—I find I have conducted to this hapless spot, hearts black with discontent, and factious jea<g ref="char:EOLhyphen"/>lousy, thirsting for plunder and for blood! But if de<g ref="char:EOLhyphen"/>termined rigour—virtuous example—</p>
                </sp>
                <stage>
@@ -838,7 +838,7 @@ have attained the summit of my wishes, when I shou'd give some little rest to my
                <sp>
                   <speaker>Roldan.</speaker>
                   <p>May I trust that look propitious—Oh, let
-<pb n="15" facs="tcp:027352_0019_0FD420F9CF557DC8"/>
+<pb n="15" facs="unknown:027352_0019_0FD420F9CF557DC8"/>
 thy words confirm it—how hast thou prospered with the soldiers?</p>
                </sp>
                <sp>
@@ -871,7 +871,7 @@ thy words confirm it—how hast thou prospered with the soldiers?</p>
                   <p>Columbus, on <hi>thee</hi> let me retort the name of traitor.—I stand here, chosen by the general voice, the avenger of their wrongs.—'Tis thee they charge with treason to their King, assert thou wink'st at heresy, and hast made them the slaves of savages.—How dost thou answer?</p>
                </sp>
                <stage>
-                  <pb n="16" facs="tcp:027352_0020_0FD420F9D361FD88"/>
+                  <pb n="16" facs="unknown:027352_0020_0FD420F9D361FD88"/>
                   <hi>Enter</hi> Herbert.</stage>
                <sp>
                   <speaker>Columbus.</speaker>
@@ -904,7 +904,7 @@ thy words confirm it—how hast thou prospered with the soldiers?</p>
                <sp>
                   <speaker>Roldan.</speaker>
                   <p>Now, Columbus, look on that paper; by it thou'lt find thy King distrusted thee <stage>[giving the paper.</stage> And pray you all remember, I exerted not the high
-<pb n="17" facs="tcp:027352_0021_0FD420FDE6BD4838"/>
+<pb n="17" facs="unknown:027352_0021_0FD420FDE6BD4838"/>
 authority of which my sovereign thought me worthy, 'till he was deserted, and despised.</p>
                </sp>
                <sp>
@@ -950,7 +950,7 @@ authority of which my sovereign thought me worthy, 'till he was deserted, and de
                <sp>
                   <speaker>Herbert.</speaker>
                   <p>Heaven preserve your Excellency.—Will you, great Sir, condescend to indulge the last wish of vanity, and when you have nothing else to do, write to England the story of my fate; that when my fortunes
-<pb n="18" facs="tcp:027352_0022_0FD42101B05BF588"/>
+<pb n="18" facs="unknown:027352_0022_0FD42101B05BF588"/>
 shall be inquired after, my friends, with joy sparkling through a tear, may say, Herbert stuck to his com<g ref="char:EOLhyphen"/>mander to the last, and died as an Englishman ought.</p>
                </sp>
                <sp>
@@ -996,7 +996,7 @@ shall be inquired after, my friends, with joy sparkling through a tear, may say,
                <sp>
                   <speaker>Columbus.</speaker>
                   <p>Thou guardian of the innocent, to thy supreme protection I commend the generous natives of this hapless land; assist them to defend their li<g ref="char:EOLhyphen"/>berties
-<pb n="19" facs="tcp:027352_0023_0FD42102DF655E68"/>
+<pb n="19" facs="unknown:027352_0023_0FD42102DF655E68"/>
 from the fell grasp of this detested crew—To them extend thy mercy; and let me pour my thanks for that celestial fortitude which glows within my breast—with it I can defy the storms of fortune, safe in the approval of a guiltless mind, which, not de<g ref="char:EOLhyphen"/>serving wrong, can never feel disgrace.</p>
                </sp>
                <stage>[<hi>Exeunt</hi> Columbus <hi>and Attendants to the Boat.</hi>
@@ -1030,7 +1030,7 @@ from the fell grasp of this detested crew—To them extend thy mercy; and let me
                <sp>
                   <speaker>Herbert.</speaker>
                   <p>I'll tell you—that cannibal, Roldan, was, I believe, a little inclined to the dainty, and, wishing for a choice bit, consigned me over to Valverdo, who stood man-cook on the occasion—he ordered me to be scored like pork, and then to be roasted; and the hu<g ref="char:EOLhyphen"/>mane priest remarked, there was not so excellent a re<g ref="char:EOLhyphen"/>ceipt
-<pb n="20" facs="tcp:027352_0024_0FD4210519E91268"/>
+<pb n="20" facs="unknown:027352_0024_0FD4210519E91268"/>
 for insuring the love of heaven, as taking half a dozen hereticks and broiling them gently over a slow fire—Acknowledge Roldan Viceroy, says he—I'd see you damn'd first, says I—so watching my opportunity, I gave the priest a Cornish hug, showed his scullions a specimen of English wrestling, and off I came, trussed for dressing as you see me.</p>
                </sp>
                <sp>
@@ -1064,7 +1064,7 @@ for insuring the love of heaven, as taking half a dozen hereticks and broiling t
                <sp>
                   <speaker>Orozimbo.</speaker>
                   <p>Matchless infamy! how could the villain
-<pb n="21" facs="tcp:027352_0025_0FD421051C716EE0"/>
+<pb n="21" facs="unknown:027352_0025_0FD421051C716EE0"/>
 Roldan think so poorly of me? the tender of his friendship was sufficient insult, without the terms on which he offers it. Resign thee to him! purchase by treachery the friendship of a traitor—and for what? Had he the power to raise me above all the glories ambition ever coveted, should I not, after such a crime, sit pining 'midst my splendour, the victim of accusing conscience, finding a curse in every blessing!</p>
                </sp>
                <sp>
@@ -1094,7 +1094,7 @@ Roldan think so poorly of me? the tender of his friendship was sufficient insult
                   <p>Priestess, bear to our chief this consecrated weapon, it shall defend the Sun's insulted glory, our sovereign's, and his people's rights.</p>
                </sp>
                <stage>[Cora <hi>receives the weapon, and in bearing it to</hi> Oro<g ref="char:EOLhyphen"/>zimbo,
-<pb n="22" facs="tcp:027352_0026_0FD42107163FF028"/>
+<pb n="22" facs="unknown:027352_0026_0FD42107163FF028"/>
                   <hi>sees</hi> Alonzo—<hi>exclaims</hi>—"Oh, heavens!" <hi>drops the weapon and saints</hi>—Alonzo <hi>endeavours to assist her.</hi>]</stage>
                <sp>
                   <speaker>Catalpo.</speaker>
@@ -1150,7 +1150,7 @@ Roldan think so poorly of me? the tender of his friendship was sufficient insult
                <sp>
                   <speaker>Dolores.</speaker>
                   <p>Curse the new world, I say—there is not a
-<pb n="23" facs="tcp:027352_0027_0FD4210CF4EB35F0"/>
+<pb n="23" facs="unknown:027352_0027_0FD4210CF4EB35F0"/>
 man in it wants a physician but myself—If I cou'd but have gone back with Columbus—he must by this time be near Spain, and perhaps old Dorothy's dead.</p>
                </sp>
                <stage>
@@ -1196,7 +1196,7 @@ man in it wants a physician but myself—If I cou'd but have gone back with Colu
                <sp>
                   <speaker>Bribon.</speaker>
                   <p>Yes, my dear, with an university education; why, you old idol of grave-diggers, have not you con<g ref="char:EOLhyphen"/>founded all distinction between a prescription and a death warrant—had not you a regular annuity from the undertakers—have not you cheated me out of thou<g ref="char:EOLhyphen"/>sands,
-<pb n="24" facs="tcp:027352_0028_0FD4210F01570C50"/>
+<pb n="24" facs="unknown:027352_0028_0FD4210F01570C50"/>
 by making people die so fast, I had not time to make their wills<g ref="char:punc">▪</g> Here's a pretty fellow to make love to a sweet girl. Why, he's as blind as justice, as un<g ref="char:EOLhyphen"/>feeling as a <gap reason="illegible: indecipherable" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> post, as diseased as a lazaretto, and as old as a chancery suit.</p>
@@ -1230,7 +1230,7 @@ by making people die so fast, I had not time to make their wills<g ref="char:pun
                <sp>
                   <speaker>Herbert.</speaker>
                   <p>It's always my infernal luck to be in a rage—to think that these innocent people, who lived as happily before the Spaniards came, as the people in a village do before a lawyer comes among them—should now have gridirons for their beds—and what they think worse—the Spaniards place on their bodies, which were as free as Englishmens, an indelible mark
-<pb n="25" facs="tcp:027352_0029_0FD421105454BE10"/>
+<pb n="25" facs="unknown:027352_0029_0FD421105454BE10"/>
 of slavery. Oh, I hope nobody will contradict me to<g ref="char:EOLhyphen"/>day—I wish I could see Nelti—her soothing fondness would—</p>
                </sp>
                <stage>Nelti passes him [singing.]</stage>
@@ -1284,7 +1284,7 @@ of slavery. Oh, I hope nobody will contradict me to<g ref="char:EOLhyphen"/>day�
                <sp>
                   <speaker>Herbert.</speaker>
                   <p>Damn your <hi>buts,</hi> you imp of mischief, what do you mean? have you encouraged me one day, to
-<pb n="26" facs="tcp:027352_0030_0FD42111CC780C10"/>
+<pb n="26" facs="unknown:027352_0030_0FD42111CC780C10"/>
 make my mortifications greater the next? have I left he jilts of one world to find the same whirligig tricks in another—don't provoke me, or, by St. George and his dragon, I'll—damnation, that a man can't, with honour, beat any woman but his wife.</p>
                </sp>
                <sp>
@@ -1336,7 +1336,7 @@ make my mortifications greater the next? have I left he jilts of one world to fi
                   <speaker>Roldan.</speaker>
                   <p>The hour seems big with horror, and the
 
-<pb n="27" facs="tcp:027352_0031_0FD4211415403B38"/>
+<pb n="27" facs="unknown:027352_0031_0FD4211415403B38"/>
 vivid lightning blazons the murky mantle of the night with awful splendour—Moscoso, why are you absent from your guard?—carry that gold to my tent.</p>
                </sp>
                <sp>
@@ -1402,7 +1402,7 @@ vivid lightning blazons the murky mantle of the night with awful splendour—Mos
                   <stage>[Cuto <hi>is released, and exit.</hi>
                   </stage>
                   <p>But let not souls like yours be daunted; 'tis not the
-<pb n="28" facs="tcp:027352_0032_0FD42115909BD4C0"/>
+<pb n="28" facs="unknown:027352_0032_0FD42115909BD4C0"/>
 first tempest you have witnessed—cheerly, my friends.</p>
                </sp>
                <stage>[Exit.</stage>
@@ -1442,7 +1442,7 @@ first tempest you have witnessed—cheerly, my friends.</p>
                <sp>
                   <speaker>Alonzo.</speaker>
                   <p>Has Cora e'er bestowed a thought on her Alonzo.—Oh joy unhoped for.—"In this dread hour to share thy fate was all my utmost wishes could as<g ref="char:EOLhyphen"/>pire
-<pb n="29" facs="tcp:027352_0033_0FD42117CCBE96A8"/>
+<pb n="29" facs="unknown:027352_0033_0FD42117CCBE96A8"/>
 to—but now to hear thee own a mutual flame, is bliss which bears my raptured mind almost be<g ref="char:EOLhyphen"/>yond the check of reason."</p>
                </sp>
                <sp>
@@ -1481,7 +1481,7 @@ to—but now to hear thee own a mutual flame, is bliss which bears my raptured m
                   <p>Alonzo—Oh, how that name vibrates thro' every nerve; and makes such sweet commotion in each pulse, as tho' they swelled to emulate my lips, and strove to utter it.—</p>
                </sp>
                <sp>
-                  <pb n="30" facs="tcp:027352_0034_0FD4211D16F32328"/>
+                  <pb n="30" facs="unknown:027352_0034_0FD4211D16F32328"/>
                   <speaker>Alonzo.</speaker>
                   <p>How my fancy glows with all the happiness which awaits us—we'll fly together to the dear retreats, where nature reigns with uncontrolled dominion—there, free from every care which dwells with busy, artificial life, each day shall greet us with unclouded joy, and each new hour shall bring increase of bliss—there shall the dear delights of husband and of father—</p>
                </sp>
@@ -1517,7 +1517,7 @@ to—but now to hear thee own a mutual flame, is bliss which bears my raptured m
                <sp>
                   <speaker>Alonzo.</speaker>
                   <p>What dost thou utter?—Am I—am I the author of such direful ruin—am I the murderer of thy guiltless race?—did not affection check my ireful arm—did not my love command me to exist to share thy doom, whatever fate decree it, no longer wou'd I strug<g ref="char:EOLhyphen"/>le
-<pb n="31" facs="tcp:027352_0035_0FD4211D19EEAFE8"/>
+<pb n="31" facs="unknown:027352_0035_0FD4211D19EEAFE8"/>
 with the horrors that I feel, but part with life and misery together.</p>
                </sp>
                <sp>
@@ -1568,7 +1568,7 @@ with the horrors that I feel, but part with life and misery together.</p>
                   <p>Oh! Alonzo, no more—</p>
                </sp>
                <stage>
-                  <pb n="32" facs="tcp:027352_0036_0FD4211E97464468"/>
+                  <pb n="32" facs="unknown:027352_0036_0FD4211E97464468"/>
 [Alonzo <hi>leads her to the temple—they embrace—she goes into the temple. He exit on one side of the stage.</hi>]</stage>
             </div>
             <div n="4" type="scene">
@@ -1626,7 +1626,7 @@ with the horrors that I feel, but part with life and misery together.</p>
                   <p>Here come those frights, Dolores and Bribon; I shou'd like to plague 'em dearly.</p>
                </sp>
                <sp>
-                  <pb n="33" facs="tcp:027352_0037_0FD421200F821F90"/>
+                  <pb n="33" facs="unknown:027352_0037_0FD421200F821F90"/>
                   <speaker>Herbert.</speaker>
                   <p>Shou'd you, you rogue. Egad, what you have told me about necromancers, and the strange opi<g ref="char:EOLhyphen"/>nion of your country, that people's lives are joined to<g ref="char:EOLhyphen"/>gether, has given me an idea which will plague them confoundedly, "for their credulity in astrology, is equal to their professional ignorance." This way, and I'll explain.</p>
                   <stage>[Retires up the stage.</stage>
@@ -1683,7 +1683,7 @@ with the horrors that I feel, but part with life and misery together.</p>
                   <p>I am very anxious.</p>
                </sp>
                <sp>
-                  <pb n="34" facs="tcp:027352_0038_0FD42121AE824FA0"/>
+                  <pb n="34" facs="unknown:027352_0038_0FD42121AE824FA0"/>
                   <speaker>Bribon.</speaker>
                   <p>I'd give half my estate to know it.</p>
                </sp>
@@ -1762,7 +1762,7 @@ with the horrors that I feel, but part with life and misery together.</p>
                   </stage>
                </sp>
                <sp>
-                  <pb n="35" facs="tcp:027352_0039_0FD4212312B5EAC0"/>
+                  <pb n="35" facs="unknown:027352_0039_0FD4212312B5EAC0"/>
                   <speaker>Bribon.</speaker>
                   <p>I declare, what she has said, has made me so ill, I can scarce stand. Oh, lord, I am afraid my accomplice is going.</p>
                </sp>
@@ -1815,7 +1815,7 @@ with the horrors that I feel, but part with life and misery together.</p>
                <sp>
                   <speaker>Dolores.</speaker>
                   <p>Sweetest messenger of fate, tell me the name
-<pb n="36" facs="tcp:027352_0040_0FD42124F37D2ED0"/>
+<pb n="36" facs="unknown:027352_0040_0FD42124F37D2ED0"/>
 of him, the cords of whose heart are so twisted with mine, that one crack will dissever both.</p>
                </sp>
                <sp>
@@ -1881,7 +1881,7 @@ of him, the cords of whose heart are so twisted with mine, that one crack will d
                   <p>Dear Doctor, sit down.</p>
                </sp>
                <sp>
-                  <pb n="37" facs="tcp:027352_0041_0FD42129CA846DB8"/>
+                  <pb n="37" facs="unknown:027352_0041_0FD42129CA846DB8"/>
                   <speaker>Dolores.</speaker>
                   <p>I say, Bribon, you did not, (may be,) hap<g ref="char:EOLhyphen"/>pen to swallow the contents of the bottle I gave you</p>
                   <stage>[with hesitation.]</stage>
@@ -1948,7 +1948,7 @@ of him, the cords of whose heart are so twisted with mine, that one crack will d
                   <p>Have you any more of the bottle?</p>
                </sp>
                <sp>
-                  <pb n="38" facs="tcp:027352_0042_0FD4212BC91B7778"/>
+                  <pb n="38" facs="unknown:027352_0042_0FD4212BC91B7778"/>
                   <speaker>Dolores.</speaker>
                   <p>Oh, no——I have a notion that you have had enough of that.</p>
                   <stage>[Aside.</stage>
@@ -2024,7 +2024,7 @@ of him, the cords of whose heart are so twisted with mine, that one crack will d
                   <speaker>Bribon.</speaker>
                   <stage>[jumping up.]</stage>
                   <p>No, you don't—don't be
-<pb n="39" facs="tcp:027352_0043_0FD4212D9C8CA3B8"/>
+<pb n="39" facs="unknown:027352_0043_0FD4212D9C8CA3B8"/>
 frightened <stage>[<hi>to</hi> Dolores]</stage> bless your soul, it was all a fetch.</p>
                </sp>
                <sp>
@@ -2075,7 +2075,7 @@ frightened <stage>[<hi>to</hi> Dolores]</stage> bless your soul, it was all a fe
                <sp>
                   <speaker>Alonzo.</speaker>
                   <p>Still must I wander near these awful walls, uncertain of my fate—Though days and weeks pass on, yet nought I gain from lengthened time, but added woe—Still, still I tremble for her life! And were my mind relieved from that distracting fear, what com<g ref="char:EOLhyphen"/>fort even then could reach me—The treasure of my soul's immured in yon impenetrable shrine—buried for
-<pb n="40" facs="tcp:027352_0044_0FD4212F0CBDFA68"/>
+<pb n="40" facs="unknown:027352_0044_0FD4212F0CBDFA68"/>
 ever in that grave of youth and beauty.—Where can I find a thought of aught but wretchedness—</p>
                </sp>
                <stage>[Stands in a posture of despair.</stage>
@@ -2144,7 +2144,7 @@ ever in that grave of youth and beauty.—Where can I find a thought of aught bu
                <sp>
                   <speaker>Alonzo.</speaker>
                   <p>Father say'st thou? <stage>[falling on his knees]</stage> Thou, the father of my Cora.—"Oh forgive me;
-<pb n="41" facs="tcp:027352_0045_0FD42130AD78E268"/>
+<pb n="41" facs="unknown:027352_0045_0FD42130AD78E268"/>
 yet how can'st thou forgive the murderer of thy child?—Strike, strike this weapon in my guilty breast—Oh give me death; it will at once to thee be vengeance, and to me be mercy."</p>
                </sp>
                <sp>
@@ -2187,7 +2187,7 @@ yet how can'st thou forgive the murderer of thy child?—Strike, strike this wea
                <sp>
                   <speaker>Orozimbo.</speaker>
                   <p>Alonzo, thy aid is now our chief reli<g ref="char:EOLhyphen"/>ance—Roldan prepares to attack us; and since the
-<pb n="42" facs="tcp:027352_0046_0FD42132D2FB7388"/>
+<pb n="42" facs="unknown:027352_0046_0FD42132D2FB7388"/>
 good Columbus left our coast, thro' many tedious months of care and danger, thy counsel and thy valour, still have been defence and safety to us. But, why droops the brave Alonzo?—If any tender scruple of shedding native blood now check thy wonted ardour, freely avow the generous weakness.—On thee depends our fate—yet would I welcome the loss of empire and of life, rather than save them by Alonzo's misery.</p>
                </sp>
                <sp>
@@ -2236,7 +2236,7 @@ good Columbus left our coast, thro' many tedious months of care and danger, thy 
                   <p>I would aspire to reign beyond the limits of weak prejudice; but reflect, Alonzo, how sacred are a country's customs.</p>
                </sp>
                <sp>
-                  <pb n="43" facs="tcp:027352_0047_0FD4213391E94BF0"/>
+                  <pb n="43" facs="unknown:027352_0047_0FD4213391E94BF0"/>
                   <speaker>Alonzo.</speaker>
                   <p>There, there's the source of half the misery of human kind—custom is the vile confounder of virtue and of vice.—It checks the operation of our godlike reason, and makes the greatest glory of creation, a be<g ref="char:EOLhyphen"/>ing void of will—Oh, Orozimbo, soar superior to the mist of error—when thy great soul displays unmanacled its glorious attributes—thou'lt cease to think that God delights in cruelty, whose blest infusion in the human heart breathes mercy and benevolence.</p>
                </sp>
@@ -2275,7 +2275,7 @@ good Columbus left our coast, thro' many tedious months of care and danger, thy 
                <stage>[Exeunt.</stage>
             </div>
             <div n="3" type="scene">
-               <pb n="44" facs="tcp:027352_0048_0FD421378BAE3FE8"/>
+               <pb n="44" facs="unknown:027352_0048_0FD421378BAE3FE8"/>
                <head>SCENE III. A Battle.</head>
                <stage>[<hi>Excursions</hi>—Alonzo <hi>is seen successfully to attack</hi> Rol<g ref="char:EOLhyphen"/>dan, <hi>who is relieved by a party of Spaniards</hi>——Alon<g ref="char:EOLhyphen"/>zo <hi>retreats fighting—Indians driven across the stage.</hi>]</stage>
                <stage>
@@ -2316,7 +2316,7 @@ good Columbus left our coast, thro' many tedious months of care and danger, thy 
                   </p>
                </sp>
                <stage>
-                  <pb n="45" facs="tcp:027352_0049_0FD4213B8B281C10"/>
+                  <pb n="45" facs="unknown:027352_0049_0FD4213B8B281C10"/>
                   <hi>Re-enter</hi> Herbert <hi>driving a Spaniard across the stage.</hi>
                </stage>
                <sp>
@@ -2359,7 +2359,7 @@ good Columbus left our coast, thro' many tedious months of care and danger, thy 
                <sp>
                   <speaker>Catalpo.</speaker>
                   <p>"There can exist no doubt—On the morn which followed that dreadful night, when the dire war of elements diffused such general horror, Blessco,
-<pb n="46" facs="tcp:027352_0050_0FD4213C8FF8CE60"/>
+<pb n="46" facs="unknown:027352_0050_0FD4213C8FF8CE60"/>
 whose truth none yet e'er doubted, beheld her con<g ref="char:EOLhyphen"/>ducted to the temple by one of these hated strangers, with whom she parted, with every mark of fond en<g ref="char:EOLhyphen"/>dearment—Long he concealed this, till at length his conscience sorely wounded by the guilt he se<g ref="char:EOLhyphen"/>creted, he on his oath declared to me this profana<g ref="char:EOLhyphen"/>tion." Instant conduct the offender to her doom.</p>
                </sp>
                <stage>
@@ -2399,7 +2399,7 @@ whose truth none yet e'er doubted, beheld her con<g ref="char:EOLhyphen"/>ducted
                   <speaker>Catalpo.</speaker>
                   <p>This instant meet thy fate.</p>
                   <stage>
-                     <pb n="47" facs="tcp:027352_0051_0FD4213E125EE180"/>
+                     <pb n="47" facs="unknown:027352_0051_0FD4213E125EE180"/>
                      <hi>Enter</hi> Cuto.</stage>
                   <p>What rash foot dares, unbidden, to approach the sacred Temple?</p>
                </sp>
@@ -2452,7 +2452,7 @@ whose truth none yet e'er doubted, beheld her con<g ref="char:EOLhyphen"/>ducted
                </sp>
                <stage>[Embraces Cora and Exit.</stage>
                <stage>
-                  <pb n="48" facs="tcp:027352_0052_0FD4213FD3CF59A0"/>
+                  <pb n="48" facs="unknown:027352_0052_0FD4213FD3CF59A0"/>
                   <hi>The ceremony takes place, the Archers range, and Co<g ref="char:EOLhyphen"/>ra is led to the upper part of the stage—The Arch<g ref="char:EOLhyphen"/>ers draw their arrows, then Alonzo rushes down, covers her with his shield, and exclaims</hi> Hold, mon<g ref="char:EOLhyphen"/>sters, hold! <hi>They are astonished at the appearance of Alonzo and drop their bows—Cora faints, Alon<g ref="char:EOLhyphen"/>zo bears her forward.</hi>
                </stage>
                <sp>
@@ -2490,7 +2490,7 @@ whose truth none yet e'er doubted, beheld her con<g ref="char:EOLhyphen"/>ducted
                <sp>
                   <speaker>Cora.</speaker>
                   <p>Can my Alonzo grudge me the bliss to die
-<pb n="49" facs="tcp:027352_0053_0FD42141CA7A4428"/>
+<pb n="49" facs="unknown:027352_0053_0FD42141CA7A4428"/>
 with him—souls linked like ours, the call of death should never summon singly.—The horrors of captivity, thou need'st not dread for me—This <stage>[<hi>snatching</hi> Alon<g ref="char:EOLhyphen"/>zo's <hi>poignard</hi>]</stage> if the sabres of the foe shrink from shed<g ref="char:EOLhyphen"/>ding a woman's blood, this shall prevent my lingering in <gap reason="illegible: indecipherable" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> when my dear lord has left it.</p>
@@ -2560,7 +2560,7 @@ with him—souls linked like ours, the call of death should never summon singly.
                   <p>Bliss, Alonzo! Can happiness be ours?</p>
                </sp>
                <sp>
-                  <pb n="50" facs="tcp:027352_0054_0FD421484F551068"/>
+                  <pb n="50" facs="unknown:027352_0054_0FD421484F551068"/>
                   <speaker>Alonzo.</speaker>
                   <p>For ever</p>
                   <stage>[Embraces her.]</stage>
@@ -2587,7 +2587,7 @@ with him—souls linked like ours, the call of death should never summon singly.
                   <p>Greatest of men, in firmest confidence of thy excelling virtues, I repose my people's safety.</p>
                </sp>
                <sp>
-                  <pb n="51" facs="tcp:027352_0055_0FD4214AC90A2DB0"/>
+                  <pb n="51" facs="unknown:027352_0055_0FD4214AC90A2DB0"/>
                   <speaker>Columbus.</speaker>
                   <stage>[to Herbert.]</stage>
                   <p>My noble Englishman, re<g ref="char:EOLhyphen"/>ceive from my hand this lovely maid, and such benefits as I can bestow, you may command.</p>
@@ -2645,7 +2645,7 @@ with him—souls linked like ours, the call of death should never summon singly.
                <sp>
                   <speaker>Columbus.</speaker>
                   <p>That was indeed a triumph.—See those wretches closely guarded—their punishment must not now damp the joy I feel. Oh, were I satisfied no fu<g ref="char:EOLhyphen"/>ture Roldans would alarm your peace, I should be blest indeed.—Had I earlier known that England's monarch
-<pb n="52" facs="tcp:027352_0056_0FD4214ACC34C568"/>
+<pb n="52" facs="unknown:027352_0056_0FD4214ACC34C568"/>
 would have graced my fortunes with his victorious ban<g ref="char:EOLhyphen"/>ner, then would your freedom been firmly fixed—They only, who themselves are free, give liberty to others.</p>
                </sp>
                <lg>
@@ -2660,7 +2660,7 @@ would have graced my fortunes with his victorious ban<g ref="char:EOLhyphen"/>ne
       </body>
       <back>
          <div type="epilogue">
-            <pb facs="tcp:027352_0057_0FD4214C61A4A7D8"/>
+            <pb facs="unknown:027352_0057_0FD4214C61A4A7D8"/>
             <head>EPILOGUE.</head>
             <byline>
                <hi>By</hi> MILES P. ANDREWS, <abbr>
@@ -2703,7 +2703,7 @@ would have graced my fortunes with his victorious ban<g ref="char:EOLhyphen"/>ne
                <l>Newmarket's course arrests his gay career;</l>
                <l>There he <hi>long odds, short betts, pass dice,</hi> all pat in,</l>
                <l>
-                  <pb facs="tcp:027352_0058_0FD4214DED6DAB50"/>
+                  <pb facs="unknown:027352_0058_0FD4214DED6DAB50"/>
 Sticks to the <hi>Greeks,</hi> and disregards the Latin;</l>
                <l>Flown up to town, our fierce-cock'd, <hi>captious</hi> Bobby,</l>
                <l>Drives to the play, and quarrels in the lobby;</l>
@@ -2741,7 +2741,7 @@ Sticks to the <hi>Greeks,</hi> and disregards the Latin;</l>
             </lg>
          </div>
          <div type="publishers_advertisement">
-            <pb facs="tcp:027352_0059_0FD421500C875620"/>
+            <pb facs="unknown:027352_0059_0FD421500C875620"/>
             <head>Plays, AMERICAN EDITIONS, FOR SALE BY WILLIAM SPOTSWOOD, BOSTON.</head>
             <div type="list_of_plays">
                <head>TRAGEDIES.</head>
